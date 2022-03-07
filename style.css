@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.main-container {
+    min-height: 85vh;
+}
+
+.badge {
+    height: 90px;
+    display: flex;
+    align-items: center;
+    min-width: 250px;
+    font-size: 20px;
+}
+
+#res {
+    position: relative;
+    left: 25px;
+}
